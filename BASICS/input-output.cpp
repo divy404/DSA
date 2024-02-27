@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
     char chr;
-    
     cin >> chr;
 
     if (chr >= 'A' && chr <= 'Z') {
