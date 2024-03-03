@@ -24,6 +24,6 @@ int main()
         cin>>arr[i];
     }
     reverseArray(arr,n);
-    return 0;
+    return 0;;
 
 }
